@@ -1,2 +1,2 @@
 # hexlet-basics
-second
+2second
